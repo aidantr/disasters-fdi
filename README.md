@@ -1,4 +1,5 @@
-# disasters-fdi
+# Natural Disasters, FDI, and Intra-National Spillovers: Evidence from India
+## Felix Friedt and Aidan Toner-Rodgers
 
 REPLICATION INSTRUCTIONS FOR FRIEDT AND TONER-RODGERS (2022) 
 
