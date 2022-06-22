@@ -1,7 +1,4 @@
-# Natural Disasters, FDI, and Intra-National Spillovers: Evidence from India
-## Felix Friedt and Aidan Toner-Rodgers
-
-REPLICATION INSTRUCTIONS FOR FRIEDT AND TONER-RODGERS (2022) 
+# REPLICATION INSTRUCTIONS FOR FRIEDT AND TONER-RODGERS (2022) 
 
 REPOSITORY STRUCTURE:
   _1data/raw/: contains raw data files.
