@@ -1,7 +1,7 @@
 # REPLICATION INSTRUCTIONS FOR FRIEDT AND TONER-RODGERS (2022) 
 
 REPOSITORY STRUCTURE:
-  - _1data/raw/: contains raw data files.
+  - _1data/raw/: contains raw data files
  -  _1data/clean/: contains data files used in the analysis 
   - _2codes/_1build: contains codes to build main panel from raw data
   - _2codes/_analysis: contains codes to replicate all tables and figures 
