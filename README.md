@@ -1,11 +1,11 @@
 # REPLICATION INSTRUCTIONS FOR FRIEDT AND TONER-RODGERS (2022) 
 
 REPOSITORY STRUCTURE:
-  _1data/raw/: contains raw data files.
-  _1data/clean/: contains data files used in the analysis 
-  _2codes/_1build: contains codes to build main panel from raw data
-  _2codes/_analysis: contains codes to replicate all tables and figures 
-  _3results: stores outputs for all tables and figures in the main text and appendix
+  - _1data/raw/: contains raw data files.
+ -  _1data/clean/: contains data files used in the analysis 
+  - _2codes/_1build: contains codes to build main panel from raw data
+  - _2codes/_analysis: contains codes to replicate all tables and figures 
+  - _3results: stores outputs for all tables and figures in the main text and appendix
 
 MAIN CODE FILES TO RUN:
   1. run_all.do to execute all Stata code
