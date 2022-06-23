@@ -45,5 +45,5 @@ REQUIRED R PACKAGES:
   - sp 
   - viridis 
 
-TIME
-  -The code takes ~1-2 hours to run, start to finish. The main bottleneck is the iterations of the wild cluster bootstrapped standard errors.
+TIME: 
+  - The code takes ~1-2 hours to run, start to finish. The main bottleneck is the iterations of the wild cluster bootstrapped standard errors.
