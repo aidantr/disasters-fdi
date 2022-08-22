@@ -18,7 +18,7 @@ This repository contains all the code to replicate the results of [Natural Disas
   - Natural disaster data from the Dartmouth Flood Observatory (DFO)  and Geocoded Disasters (GDIS)  Dataset
   - State-level principal economic indicators from the Indian Census
   - Regional controls from the the Indian Ministry of Statistics 
-  - Spatial data on India geography
+  - Spatial data on Indian geography
 
 ## Required Stata packages
   - blindschemes
