@@ -13,7 +13,7 @@ This repository contains all the code to replicate the results of [Natural Disas
   - `_2codes/_analysis` contains codes to replicate all tables and figures 
   - `_3results` stores outputs for all tables and figures in the main text and appendix
 
-## Raw data sources
+## Raw data
   - FDI data from Reserve Bank of India regional branches
   - Natural disaster data from the Dartmouth Flood Observatory (DFO)  and Geocoded Disasters (GDIS)  Dataset
   - State-level principal economic indicators from the Indian Census
