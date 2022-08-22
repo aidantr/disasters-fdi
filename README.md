@@ -48,4 +48,4 @@ This repository contains all the code to replicate the results of [Natural Disas
   - viridis 
 
 ## Computation time: 
-  - The code takes ~3-4 hours to run, start to finish. The main bottleneck is the iterations of the wild cluster bootstrapped standard errors.
+The code takes ~3-4 hours to run, start to finish. The main bottleneck is the iterations of the wild cluster bootstrapped standard errors.
