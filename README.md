@@ -1,6 +1,6 @@
 # Replication Package for Friedt and Toner-Rodgers (2022) 
 
-This repository contains 
+This repository contains all the code to replicate the results of "Natural Disasters, Intra-National FDI Spillovers, and Economic Divergence: Evidence from India," published in the _Journal of Development Economics._ The paper is available [here](https://www.sciencedirect.com/science/article/abs/pii/S0304387822000438). All code is written in Stata and R.
 
 How to run
   1. `run_all.do` executes all Stata code
